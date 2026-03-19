@@ -7,4 +7,4 @@ Given the benchmark dataset of  Rain100H, Rain100L, Test100, Test1200, Test2800 
  * Train, validate, test, and evaluate the architecture using metrics: MSE, Peak Signal to Noise Ratio (PSNR), Structural Similarity Index (SSIM).
 
 
-This was an academic group project where we implemented De-Noising using CNN and C-GAN models. I developed the CNN part and this folder contains to the code for the same. The GAN part was developed by my colleague, the details of which are mentioned in the draft paper. We also developed a UI for this project (details in the draft paper).
+This was an academic group project where we implemented De-Noising using CNN and C-GAN models. I developed the CNN part and this folder contains to the code for the same. The GAN part was developed by my colleague, the details of which are mentioned in the draft paper. We also developed a UI for this project using Streamlit (details in the draft paper).
